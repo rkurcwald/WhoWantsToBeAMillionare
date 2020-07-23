@@ -1,0 +1,23 @@
+OLD
+-------------------------------------------
+AdminAddUserForm     | SOON | Jak register
+AdminEditUserForm    | SOON
+AdminUserMenuForm    | SOON
+AfterLoginAdminForm  | SOON
+AfterLoginForm       | DONE
+DBConnection         | MECHANIKA | AlmostDone
+GameForm             | Mechanika pobierania z DB | '<instrukcja przycisków>' 
+LoginForm            | DONE
+RegisterForm         | DONE
+ScoreForm            | SOON
+SettingsForm         | DONE | <OldPasswordConfirm> | <ResetProgresses>
+-------------------------------------------
+NEW
+-------------------------------------------
+AdminQuestionEditForm   | DONE
+AdminUserEditForm       | DONE
+ScoreForm               | DONE
+-------------------------------------------
+
+
+36h/28h ciągłe
